@@ -1,2 +1,6 @@
 is quick AND simple
-master add
+<<<<<<< HEAD
+final add
+=======
+final add
+>>>>>>> new
